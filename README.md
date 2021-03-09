@@ -1,5 +1,5 @@
 # ✨ Curso Online Eu ProgrAmo | 5ª Turma
-![Logo of the project](https://github.com/stedelboux/Ada-Lovelace-programaria/Certificado-ProgrAmo-5Turma.png)
+![Logo of the project](https://github.com/stedelboux/Ada-Lovelace-programaria/blob/master/Certificado-ProgrAmo-5Turma.png)
 
 ## 🕹 Test here (Você construiu uma página web do zero!)
 
