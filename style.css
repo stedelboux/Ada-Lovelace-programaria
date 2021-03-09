@@ -1,0 +1,108 @@
+
+
+body{
+
+    text-align:center;
+    font-family:'Poppins', sans-serif;;
+    background: linear-gradient(rgb(49, 70, 99),#f0f);
+    color:#ffffff;
+    margin: 0px 0px 30px 0px;
+}
+
+
+
+h1{
+    color:#e2d487;
+    font-size: 60px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+h3{
+    font-size: 22px;
+}
+
+p{
+    font-size: 18px;
+}
+
+img{
+    width: 100%;
+}
+
+.titulo-01{
+    color:#04ff9f;
+  }
+  
+  .titulo-02{
+    color:#ffa358;
+  }
+  
+  .titulo-03{
+    color:#ffa358;
+  }
+
+  .titulo-04{
+    color:#ffa358;
+  }
+
+  section{
+      width: 60%;
+      margin: 0 auto;
+  }
+
+  section section {
+      width: 100%;
+  }
+
+  ul{
+      list-style-type: none;
+      line-height: 2;
+      padding-left: 0;
+    }
+
+    nav a {
+        text-decoration: none;
+        color: #e2d487;
+        font-weight: 700;
+    }
+
+    .principal{
+        background: #ff6cb5;
+        height: 40px;
+        max-width: 50%;
+        margin: 0 auto;
+    }
+      
+    .principal a{
+        color: #fff;
+        text-decoration: none;
+        font-weight: normal;
+    }
+
+    .principal li{
+        display: inline-block;
+        line-height: 2.5;
+        margin: 0 80px;
+        width: 15%;
+    }
+
+    button{
+        background: #007694;
+        border: 1px solid transparent;
+        padding: 2px 20px;
+        border-radius: 3px;
+        color: white;
+       }
+
+    .principal li:hover, .active {
+        background-color:#dd3a8c!important;
+    }
+
+    .linkMulheres li:hover, .active {
+        background-color:#007694!important;
+        display: inline-block;
+        width: 10%;
+    }
